@@ -1,0 +1,79 @@
+
+./Setup.hs,15
+main main1,2
+
+./app/Main.hs,37
+module Main Main0,1
+main main5,6
+
+./test/Spec.hs,15
+main main0,1
+
+./src/ch03/Guard.hs,25
+fromMaybe fromMaybe0,1
+
+./src/ch03/sumList.hs,21
+sumList sumList0,1
+
+./src/ch03/Lending.hs,32
+lend lend0,1
+lend2 lend26,7
+
+./src/ch03/NestedLets.hs,13
+bar bar0,1
+
+./src/ch03/MySecond.hs,79
+mySecond mySecond0,1
+safeSecond safeSecond6,7
+tidySecond tidySecond13,14
+
+./src/ch03/letwhere.hs,13
+bar bar0,1
+
+./src/ch03/ListADT.hs,98
+data List List0,1
+data List a = Cons Cons0,1
+            | NilNil1,2
+fromList fromList4,5
+
+./src/ch03/BookStore.hs,542
+module BookStore BookStore0,1
+type CustomerID CustomerID2,3
+type Address Address3,4
+data BookInfo BookInfo5,6
+data BookInfo = Book Book5,6
+bookID bookID8,9
+bookTitle bookTitle9,10
+bookAuthors bookAuthors10,11
+nicerID nicerID12,13
+nicerTitle nicerTitle13,14
+nicerAuthors nicerAuthors14,15
+data Customer Customer19,20
+data Customer = Customer Customer19,20
+  customerID customerID20,21
+  customerName customerName21,22
+  customerAddress customerAddress22,23
+customer1 customer125,26
+customer2 customer230,31
+
+./src/Lib.hs,42
+module LibLib0,1
+someFunc someFunc4,5
+
+./src/ch05/SimpleJSON.hs,468
+module SimpleJSONSimpleJSON0,1
+someFunc2 someFunc213,14
+data JValue JValue16,17
+data JValue = JString JString16,17
+            | JNumber JNumber17,18
+            | JBool JBool18,19
+            | JNullJNull19,20
+            | JObject JObject20,21
+            | JArray JArray21,22
+getString getString24,25
+getInt getInt28,29
+getDouble getDouble32,33
+getBool getBool35,36
+getObject getObject38,39
+getArray getArray41,42
+isNull isNull44,45
